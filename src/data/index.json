@@ -42,7 +42,7 @@
     },
     {
       "id": "3",
-      "src": "./img/RESUME.png",
+      "src": "./img/MyResume.png",
       "title": "RESUME",
       "description": "This is my resume You can read details about me and my work experience.",
       "view" : "View Resume EN",
