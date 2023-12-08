@@ -1,0 +1,80 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "My expertise is React, MVC , HTML/CSS, and JavaScript to create seamless and visually appealing web applications."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "My expertise in the Back-End are using C#, .Net Framework, .Net Core and NodeJs. Most of the time I work on the BackEnd Side. The backend is primarily used as a swagger and postman."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "SQL & DataBase",
+      "description": "I use Microsoft SQL Server to query data and work with Stored Procedures, exporting data from DataBase into reports or sending data to the front-end."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/WebCinema.png",
+      "title": "OASIS CINEMA",
+      "description": "During my academic years, I undertook a comprehensive CRUD (Create, Read, Update, Delete) project centered around an online movie ticket reservation system. This web-based application aimed to streamline the process of booking movie tickets, utilizing data from an external API to enhance the user experience. The project differentiated user roles, distinguishing between administrators and guests.",
+      "view" : "View in github",
+      "link": "https://github.com/stang19612/themoviedb",
+      "viewSecond" : "View PDF",
+      "linkSecond" : "https://drive.google.com/file/d/14PtXtjlx9EYAoesBxxsUqJf-_UY2o_qd/view?usp=sharing"
+    },
+    {
+      "id": "2",
+      "src": "./img/Project.png",
+      "title": "The Detection Swear Words (THESIS)",
+      "description": "I developed a web application that utilizes machine learning and various technologies to detect and filter out offensive language from cartoon videos. The web app allows users to upload videos containing potentially offensive content, and the system automatically extracts and analyzes the audio to identify and censor inappropriate words. Websites developed using Machine Learning, Scikit-Learn, Google Cloud Platform (API),FFMPEG, ReactJS, NodeJS, Python, HTML, CSS",
+      "view" : "View in github",
+      "link": "https://github.com/stang19612/TheDetectionSwearwords",
+      "viewSecond" : "View Paper",
+      "linkSecond" : "https://drive.google.com/file/d/1TAVKgH0_35zUKGjEolmd6w7luOCgQibM/view?usp=sharing"
+    },
+    {
+      "id": "3",
+      "src": "./img/RESUME.png",
+      "title": "RESUME",
+      "description": "This is my resume You can read details about me and my work experience.",
+      "view" : "View Resume EN",
+      "link": "https://drive.google.com/file/d/1L4uVfiSSbQ2qxbhClMEVwyh4IXj-rsmi/view?usp=sharing",
+      "viewSecond" : "View Resume TH",
+      "linkSecond" : "https://drive.google.com/file/d/1J1u6346y7-rlwOv_goIvLcF66pPCHyh-/view?usp=drive_link"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
