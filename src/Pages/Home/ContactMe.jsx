@@ -29,7 +29,7 @@ export default function ContactMe() {
     try {
       const apiKey = 'TVNad2pWNlhLSzR0NXB2VVJ2Qzc='
 
-      const response = await fetch('http://localhost:3001/api/send-email', {
+      const response = await fetch('https://server-tang-wijitemee.onrender.com/api/send-email', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
